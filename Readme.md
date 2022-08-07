@@ -21,7 +21,11 @@ I have a `good experience` in **translation and customer service**
 
 
 ## Languages
-
-| Arabic    |    English   |  German  | French | Romanian | Spanish|
-|-------  |    :-----:     |   :-----: |:-----:|:-----:   |:-----:|
-| Mother tongue   | Advanced| Advanced| Fluent| Fluent| Good knowledge|
+ 
+| Arabic  |  Mother Tongue |
+|-----    |  ------    | 
+| English | Advanced |
+| German  | Advanced |
+|French   | Fluent |
+| Romanian | Fluent |
+| Spanish | Good knowledge |
